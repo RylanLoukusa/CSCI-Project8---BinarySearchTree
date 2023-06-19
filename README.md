@@ -16,4 +16,4 @@ To run the program simply enter:
 
 For an input file enter inputFile.txt
 
-
+Demo: 
